@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 18 de Enero, 2017
-###(22:00 - 00:00)###
+####(22:00 - 00:00)####
 
 **Progreso de hoy**: He trabajado en ejercicios de freeCodeCamp y comenzado a realizar una página tributo como parte de un reto.
 
