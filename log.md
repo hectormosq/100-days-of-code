@@ -9,3 +9,13 @@
 
 **Enlace al trabajo:** 
 1. [Página tributo](http://codepen.io/hectormosq/full/pRRwrM/)
+
+### Day 2: 19 de Enero, 2017
+####(22:00 - 23:30)####
+
+**Progreso de hoy**: HTML y CSS3 como calentamiento y culminado la página tributo
+
+**Pensamientos:** Realmente la página tributo se pudo hacer en 10 minutos dadas las herramientas utilizadas, quería incluir conceptos de un layout estructurado para mezclar la imagen con el texto y el quote, pero me he quedado en el intento. Debo confesar que estoy bastante cansado luego de una larga jornada de trabajo y estos primeros días son cruciales para conseguir el hábito diario de programar. La próxima será mejor, ¡lo prometo!
+
+**Enlace al trabajo:** 
+1. [Página tributo](http://codepen.io/hectormosq/full/pRRwrM/)
